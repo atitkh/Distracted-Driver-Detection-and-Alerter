@@ -6,7 +6,7 @@ from twilio.rest import Client
 
 account_sid = ''
 auth_token = ''
-client = Client(account_sid, auth_token)
+client = Client(st.secrets["account_sid"], st.secrets["auth_token"])
 
 def sendSMS(messages,phone_number):
     message = client.messages.create(
