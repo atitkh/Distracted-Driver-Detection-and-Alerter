@@ -15,7 +15,7 @@ pip install -r requirements.txt
 
 3. Run the project:
 ```
-python main.py
+python streamlit_video.py
 ```
 
 ## Usage
