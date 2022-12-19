@@ -8,4 +8,12 @@ streamlit==1.3.0
 tqdm==4.62.3
 twilio==7.16.0
 opencv-python-headless
+<<<<<<< HEAD
 tensorflow
+=======
+<<<<<<< HEAD
+tensorflow
+=======
+tensorflow
+>>>>>>> 65493bfc2644ed4c05386663a0c3966f3d616bee
+>>>>>>> 23493ae (update)
