@@ -1,6 +1,5 @@
 from cProfile import label
 import tempfile
-from turtle import heading
 import streamlit as st
 import cv2
 import numpy as np
